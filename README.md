@@ -1,0 +1,2 @@
+# python_binary_classification_bank_deposit
+Binary classification Machine Learning model
